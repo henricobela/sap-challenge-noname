@@ -15,13 +15,13 @@
 ![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![image](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 
-<img src="imgs/imagem.png" alt="API">
+<img src="imgs/imagem.png" alt="SAP Horus">
 
 > O projeto SAP HORUS, foi desenvolvido junto a empresa SAP, afim de sanar uma dor muito importante não só de varejistas, mas tambem de estoque em geral. O projeto gira em torno de uso de Visão computacional para identificar certos produtos dentro do estoque, e criar uma descrição dos mesmos (Utilizando o ChatGPT), assim como controlar o estoque destes produtos e poder tirar novos insights para o negocio. 
 
-### Ajustes e melhorias
+### Roadmap
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+O projeto está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [x] Criacao da API
 - [x] Dockerizacao
