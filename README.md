@@ -88,7 +88,9 @@ Abaixo há um gif demonstrando a aplicação e como utiliza-la. Tambem um descri
 
 3. Detectar produtos:
 > É aqui que a cereja do bolo entra, nesta parte do app, é possivel utilizar a Inteligência Artificial que a NoName criou, para detectar automaticamente qual o produto escolhido no treinamento da IA. No caso, atualmente a nossa I.A. funciona com detecção de 2 produtos, Coca e Fanta Laranja. 
+
 > Há 2 tipos de detecção, via video e via foto, onde voce pode utilizar de uma camera de qualquer dispositivo, e realizar a detecção.
+
 > O Horus está intrinssicamente ligado á Visao Computacional desta parte do aplicativo, entao, ao detectar o produto, o Horus automaticamente gera a descrição e guarda no banco de dados.
 
 4. Atualizar Horus
