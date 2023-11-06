@@ -36,11 +36,12 @@ O projeto está em desenvolvimento e as próximas atualizações serão voltadas
 
 ## 💻 Pré-requisitos
 
-xxxx:
+Para rodar o app localmente, são necessários os seguintes recursos:
 
-* Você instalou a versão mais recente de `<Python / xxxx / xxxx>`
-* Você tem uma máquina `<xxxx>`. Importante observar que o projeto funciona melhor em maquinas xxxx.
-* Você instalou as bibliotecas `<xxxx>`.
+* Você instalou a versão mais recente de `<Python / VSCode>`
+* Você tem uma máquina `<Linux / Windows >`. Importante observar que o projeto funciona melhor em maquinas Linux.
+> * Alternativa: utilizar o app em outro dispositivo, será necessário o deploy do aplicativo em alguma ferramenta de deploy.
+* Você instalou as bibliotecas `<scikit-learn / open-cv / tensorflow / pytorch / streamlit / openai / numpy / pandas / keras>`.
 
 ## 🚀 xxxx
 
