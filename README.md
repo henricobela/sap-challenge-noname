@@ -130,9 +130,9 @@ xxxx
 
 
 
-## 🤝 Colaboradores
+## 🤝 NoName
 
-Equipe NoName:
+Membros:
 
 <table>
   <tr>
