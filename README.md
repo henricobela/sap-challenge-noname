@@ -78,9 +78,25 @@ https://streamlit.io/
 
 ## 📫 Utilizando o Horus
 
-xxxx
+Abaixo há um gif demonstrando a aplicação e como utiliza-la. Tambem um descritivo de cada parte do app.
 
+1. Preencher Horus com dados do produto:
+> É possivel realizar o upload de uma base de dados excel para o app, e assim, solicitar para que o Horus realize o preenchimento da coluna de descrição, com base na coluna desejada.
 
+2. Preencher dados do produto:
+> Nesta seção, você pode adicionar um novo produto á sua base de dados, e pedir para que o Horus faça a descrição deste novo produto.
+
+3. Detectar produtos:
+> É aqui que a cereja do bolo entra, nesta parte do app, é possivel utilizar a Inteligência Artificial que a NoName criou, para detectar automaticamente qual o produto escolhido no treinamento da IA. No caso, atualmente a nossa I.A. funciona com detecção de 2 produtos, Coca e Fanta Laranja. 
+> Há 2 tipos de detecção, via video e via foto, onde voce pode utilizar de uma camera de qualquer dispositivo, e realizar a detecção.
+> O Horus está intrinssicamente ligado á Visao Computacional desta parte do aplicativo, entao, ao detectar o produto, o Horus automaticamente gera a descrição e guarda no banco de dados.
+
+4. Atualizar Horus
+> É possivel realizar uma atualização da base de dados, subindo um novo arquivo excel, com opção de apagar ou não a base antiga.
+
+<img src="imgs/how_to_use.gif" alt="htu">
+
+---
 
 ## 🤝 NoName
 
