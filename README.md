@@ -74,46 +74,9 @@ https://streamlit.io/
 
 <img src="imgs/login_deploy.gif" alt="deploy">
 
+---
 
-## 📫 xxxx
-
-xxxx
-
-1. xxxx:
-
-    xxxx
-
-
-2. xxxx:
-
-    xxxx
-
-
-3. xxxx: 
-
-    xxxx.
-
-
-4. xxxx:
-
-    xxxx
-
-
-5. xxxx:
-
-    xxxx
-    ```
-    xxxx
-
-    ```
-
-
-6. xxxx:
-
-    xxxx.
-
-
-xxxx
+## 📫 Utilizando o Horus
 
 xxxx
 
