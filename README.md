@@ -23,129 +23,116 @@
 
 O projeto está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [x] Criacao da API
-- [x] Dockerizacao
-- [x] Kubernetes
-- [x] Refactoring do Codigo da API
-- [x] Organizacao de todo o codigo, afim de se enquadrar nas boas praticas de construcao de APIS Flask
+- [x] xxxx
+- [x] xxxx
+- [x] xxxx
+- [x] xxxx
+- [x] xxxx
 
 ## 💻 Pré-requisitos
 
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
+xxxx:
 
-* Você instalou a versão mais recente de `<Python / Docker / Kubernetes (Microk8s)>`
-* Você tem uma máquina `<Linux>`. Importante observar que o projeto funciona melhor em maquinas Linux.
-* Você instalou as bibliotecas `<Flask / Pandas / Numpy / Sqlite3 / Requests / Datetime / scikit-learn>`.
+* Você instalou a versão mais recente de `<Python / xxxx / xxxx>`
+* Você tem uma máquina `<xxxx>`. Importante observar que o projeto funciona melhor em maquinas xxxx.
+* Você instalou as bibliotecas `<xxxx>`.
 
-## 🚀 Docker
+## 🚀 xxxx
 
-Para iniciar a API no docker, siga estas etapas:
+Para iniciar a xxxx, siga estas etapas:
 
-Em um ambiente linux, construa a imagem:
+xxxx:
 ```
-sudo docker build -t checkpoint2neuro:v1 .
-```
-
-Logo apos, teste a imagem com o seguinte comando:
-```
-sudo docker run checkpoint2neuro:v1
+xxxx
 ```
 
-Preparando para o kubernete (Importante, verificar o nome da tag inserida no arquivo deployment.yaml)*:
+xxxx:
 ```
-sudo docker tag checkpoint2neuro:v1 localhost:32000/checkpoint2neuro:v1
-```
-
-Lembre-se de executar o microk8s (microk8s start)
-Logo apos, executar e aplicar o comando 
-
-```
-sudo microk8s kubectl apply -n staging -f scr_k8s/deployment.yaml
+xxxx
 ```
 
-Depois disso, executar o push!
+xxxx:
 ```
-sudo docker push localhost:32000/checkpoint2neuro:v1
-```
-
-
-
-## ☕ Kubernete
-
-Para iniciar o microk8s e rodar a API em kubernetes, siga estas etapas:
-
-Aplicar em staging:
-```
-sudo microk8s kubectl apply -n staging -f scr_k8s/deployment.yaml
+xxxx
 ```
 
-Pegar o endpoint (Este endpoint sera utilizado posteriormente para as requisicoes*):
+xxxx
+xxxx
+
 ```
-sudo microk8s kubectl -n staging get endpoints
+xxxx
 ```
 
-Lembrando que voce deve ter um ambiente docker e kubernete (microk8s) totalmente configurado. Siga as documentacoes de Docker/Kubernetes, para realizar a configuracao correta dos ambientes.
-
-## 📫 Testando com Postman
-
-Para testar a API, siga estas etapas:
-
-1. Inicie o Servidor Flask:
-
-    Certifique-se de que o servidor Flask esteja em execução. Você pode executar o aplicativo Python onde sua API está definida. Se você estiver executando o código do exemplo anterior, execute o arquivo Python em que a aplicação Flask está definida.
+xxxx
+```
+xxxx
+```
 
 
-2. Abra o Postman:
 
-    Abra o aplicativo Postman em seu computador..
+## ☕ xxxx
+
+xxxx
+
+xxxx
+```
+xxxx
+```
+
+xxxx
+```
+xxxx
+```
+
+xxxx
+
+## 📫 xxxx
+
+xxxx
+
+1. xxxx:
+
+    xxxx
 
 
-3. Crie uma Nova Requisição: 
+2. xxxx:
 
-    Clique em "New" para criar uma nova requisição.
-
-
-4. Escolha o Método e a URL:
-
-    Selecione o método da requisição (GET, POST, etc.) e insira a URL correspondente ao endpoint que deseja testar. Por exemplo, se deseja testar a rota de geração de payload, use http://IP_OBTIDO_NO_COMANDO_GET_ENDPOINTS:5000/gerar_payload.
+    xxxx
 
 
-5. Adicione os Dados à Requisição:
+3. xxxx: 
 
-    Para uma requisição GET, vá para a aba "Body" no Postman e selecione o formato (geralmente JSON). Insira os dados na seção de corpo da requisição. Por exemplo, para o endpoint /gerar_payload, você pode inserir algo assim no corpo da requisição:
+    xxxx.
+
+
+4. xxxx:
+
+    xxxx
+
+
+5. xxxx:
+
+    xxxx
     ```
-    {
-        
-      "date": 2023.0,
-      "time": 5.0,
-      "local": 1.0,
-      "field1": 25.6,
-      "field3": 14.0,
-      "field4": 22.5,
-      "field5": 27.9,
-      "field6": 97848.0,
-      "field7": 366.0,
-      "field8": 415.0
- 
-    }
+    xxxx
 
     ```
 
 
-6. Envie a Requisição:
+6. xxxx:
 
-    Clique em "Send" para enviar a requisição.
+    xxxx.
 
 
-Você receberá a resposta do servidor Flask no painel de resposta do Postman.
+xxxx
 
-Se você deseja testar o endpoint /return_model_response, siga os mesmos passos, mas use a URL http://IP_OBTIDO_NO_COMANDO_GET_ENDPOINTS:5000/return_model_response e ajuste os parâmetros de consulta na URL conforme necessário. Por exemplo:
+xxxx
 
 
 
 ## 🤝 Colaboradores
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+Equipe NoName:
 
 <table>
   <tr>
