@@ -21,6 +21,8 @@
 
 ### Roadmap
 
+<img src="imgs/roadmap.png" alt="roadmap">
+
 O projeto está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [x] xxxx
