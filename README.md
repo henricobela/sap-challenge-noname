@@ -44,54 +44,36 @@ Para rodar o app localmente, são necessários os seguintes recursos:
 > * Um dispositivo que possua uma camera, é necessário para realizar a detecção do objeto escolhido no treinamento do modelo de IOD. (Image Object Detection)
 * Você instalou as bibliotecas `<scikit-learn / open-cv / tensorflow / pytorch / streamlit / openai / numpy / pandas / keras>`.
 
-## 🚀 xxxx
+---
 
-Para iniciar a xxxx, siga estas etapas:
+## 🚀 Como executar o app localmente
 
-xxxx:
-```
-xxxx
-```
+Para iniciar o aplicativo locamente, siga estas etapas:
 
-xxxx:
+Em seu terminal, navegue até a pasta de onde você clonou o repositório:
 ```
-xxxx
+cd seu_diretorio/sap-challenge-noname
 ```
 
-xxxx:
+Executar o aplicativo streamlit:
+> Lembrando que, será necessário a configuração de seu ambiente streamlit tanto em sua maquina, quanto em sua conta no streamlit.io.
 ```
-xxxx
-```
-
-xxxx
-xxxx
-
-```
-xxxx
+streamlit run app.py
 ```
 
-xxxx
+---
+
+## ☕ Utilizando o app á partir de um Deploy
+
+Á partir da escolha de sua ferramenta de deploy, será necessário um endpoint para que a aplicação funcione, neste caso, utilizamos o deploy no streamlit.
+
+Acesse o site streamlit.io
 ```
-xxxx
-```
-
-
-
-## ☕ xxxx
-
-xxxx
-
-xxxx
-```
-xxxx
+https://streamlit.io/
 ```
 
-xxxx
-```
-xxxx
-```
+<img src="imgs/login_deploy.gif" alt="deploy">
 
-xxxx
 
 ## 📫 xxxx
 
