@@ -1,0 +1,17 @@
+streamlit
+openai
+streamlit_extras
+opencv-python
+scikit-learn
+pandas
+numpy
+tensorflow
+keras
+torch
+ultralytics
+pillow
+streamlit-webrtc
+av
+opencv-python-headless
+openpyxl
+
