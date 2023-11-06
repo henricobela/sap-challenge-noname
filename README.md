@@ -1,4 +1,4 @@
-# API de previsao de temperatura
+# PROJETO SAP HORUS
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -17,7 +17,7 @@
 
 <img src="imgs/imagem.png" alt="API">
 
-> O projeto de API de Ingestao de Dados foi proposto como Checkpoint da Materia de Computacao Neuromorfica, e visa realizar a dockerizacao e Kuberte de uma API que consiga ingerir dados.
+> O projeto SAP HORUS, foi desenvolvido junto a empresa SAP, afim de sanar uma dor muito importante não só de varejistas, mas tambem de estoque em geral. O projeto gira em torno de uso de Visão computacional para identificar certos produtos dentro do estoque, e criar uma descrição dos mesmos (Utilizando o ChatGPT), assim como controlar o estoque destes produtos e poder tirar novos insights para o negocio. 
 
 ### Ajustes e melhorias
 
