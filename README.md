@@ -63,7 +63,7 @@ streamlit run app.py
 
 ---
 
-## ☕ Utilizando o app á partir de um Deploy
+## ☕ Utilizando o app a partir de um Deploy
 
 Á partir da escolha de sua ferramenta de deploy, será necessário um endpoint para que a aplicação funcione, neste caso, utilizamos o deploy no streamlit.
 
