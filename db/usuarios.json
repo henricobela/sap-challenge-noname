@@ -39,6 +39,14 @@
             "dataframes": 1,
             "requests API": 0,
             "acessos": 1
+        },
+        {
+            "empresa": "SAP",
+            "email": "teste@mail.com",
+            "senha": "123123123",
+            "dataframes": 39,
+            "requests API": 0,
+            "acessos": 1
         }
     ]
 }
